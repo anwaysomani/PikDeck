@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190263736334",
+    "firebase_url": "https://pikdeck.firebaseio.com",
+    "project_id": "pikdeck",
+    "storage_bucket": "pikdeck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190263736334:android:8bc94d89a035930d00645f",
+        "android_client_info": {
+          "package_name": "com.anway.pikdeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190263736334-g5qh7aoto0tne0rhpi5tvkda475e84a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anway.pikdeck",
+            "certificate_hash": "f48bcb13cf4621e3bcd61b99db36c1bbb51d882d"
+          }
+        },
+        {
+          "client_id": "190263736334-jhqgcq4tf3spegqooj1uldoqn3nsshni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvkYJBdGuTmIRFw8KyD4ZTZf_aI86y1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190263736334-jhqgcq4tf3spegqooj1uldoqn3nsshni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
