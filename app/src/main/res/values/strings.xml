@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">PikDeck</string>
+
+    <!-- Custom -->
+    <string name="welcome">WELCOME</string>
+    <string name="pikdeck_alt">PicDeck</string>
+
+    <!-- Sign-In -->
+    <string name="email_phone">Email / Mobile</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="submit">Check Authentication</string>
+    <string name="register">R\nE\nG\nI\nS\nT\nE\nR</string>
+    <string name="or_sign_in">OR SIGN IN USING</string>
+
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="github">GitHub</string>
 </resources>

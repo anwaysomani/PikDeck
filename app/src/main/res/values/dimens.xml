@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Elements -->
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+
+    <!-- Text -->
+    <dimen name="sp_15">15sp</dimen>
+
+    <!-- Weight -->
+    <dimen name="sep_half">0.5</dimen>
+
+</resources>

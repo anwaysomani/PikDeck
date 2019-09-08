@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!-- Custom -->
+    <color name="absoluteLight">#FFFFFF</color>
+    <color name="absoluteDark">#000000</color>
+
+    <color name="google_red">#A52F32</color>
+    <color name="facebook_blue">#3b5998</color>
+    <color name="twitter_blue">#00acee</color>
 </resources>
